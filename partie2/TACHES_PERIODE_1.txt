@@ -1,7 +1,0 @@
-SAÉ 1.03 Installation d'un poste de développement - Partie 1
-
-Répartition des tâches :
-    - Ilan MATHIEU : choix des .c + 1 Doxygen + DOC_UTILISATEUR.md : 25%
-    - Yoan THOUVENIN : 2 Doxygen des .c non documenté : 25%
-    - Victor LE BRAS : DOC_TECHNIQUE.html : 25%
-    - Léo BLÉAS : DOC_UTILISATEUR.html + TACHES_PERIODE_1.txt : 25%
